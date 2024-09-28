@@ -1,9 +1,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-ferokuk-blue?style=social&logo=telegram&link=https://t.me/ferokuk)](https://t.me/ferokuk) <p align='left'>  
   
 - 👋🏼 Hi, I’m Yaroslav
-- ✌🏼 Interested in learning programming
-- 🐍 Currently learning Python  
-- 🛠 Backend developer
+- 🎓 Graduated from the College of Computer Science and Programming
+- 📚 Currently studying at the Financial University under the Government of the Russian Federation
+- 👨‍💻 1.5 years of experience as a software engineer with a specialization in backend development
+- 📖 Always eager to learn and improve my skills
   
 My Github stats:
   
