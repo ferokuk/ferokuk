@@ -3,7 +3,7 @@
 - 👋🏼 Hi, I’m Yaroslav
 - 🎓 Graduated from the College of Computer Science and Programming
 - 📚 Currently studying at the Financial University under the Government of the Russian Federation
-- 👨‍💻 1.5 years of experience as a software engineer with a specialization in backend development
+- 👨‍💻 1.5 years of experience as a backend developer
 - 📖 Always eager to learn and improve my skills
   
 My Github stats:
