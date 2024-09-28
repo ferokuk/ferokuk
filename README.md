@@ -1,6 +1,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-ferokuk-blue?style=social&logo=telegram&link=https://t.me/ferokuk)](https://t.me/ferokuk) <p align='left'>  
   
-- 👋🏼 Hi, I’m @ferokuk
+- 👋🏼 Hi, I’m Yaroslav
 - ✌🏼 Interested in learning programming
 - 🐍 Currently learning Python  
 - 🛠 Backend developer
