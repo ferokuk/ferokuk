@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=520&lines=Backend+Developer;Django+%2F+FastAPI;2%2B+years+of+experience;Always+learning+and+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=520&lines=Backend+Developer;Django+%2F+FastAPI;2%2B+years+of+experience;Local+LLM+Enthusiast" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,6 +20,7 @@
 - 🎓 Graduated from the College of Computer Science and Programming
 - 📚 Currently studying at the Financial University under the Government of the Russian Federation
 - 👨‍💻 2+ years of experience as a backend developer
+- 🧠 Have experience in deploying local LLMs (Ollama, vLLM, llama.cpp)
 - 📖 Always eager to learn and improve my skills
 
 ## Tech stack
@@ -27,8 +28,8 @@
 **Backend & Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Добавлены: linux, ubuntu, git, githubactions -->
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,nginx,linux,ubuntu,git,githubactions&perline=11" alt="Backend and Infra" />
+    <!-- Убрана ubuntu, добавлены gitlab, githubactions, bash и linux -->
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,nginx,linux,bash,git,gitlab,githubactions&perline=12" alt="Backend and Infra" />
   </a>
 </p>
 
@@ -39,25 +40,14 @@
   </a>
 </p>
 
-## Trophies
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Использован стабильный китайский хост для трофеев, так как оригинальный vercel.app лежит -->
-    <img src="https://github-profile-trophy.programcx.cn/?username=ferokuk&theme=onedark&no-frame=true&column=-1" alt="Trophies" />
-  </a>
-</p>
-
 ## GitHub stats
 
 <p align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=ferokuk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" />
-  </a>
+  <!-- Карточка теперь показывает только Total Contributions (скрыты ранг, PR, Issues, Stars и Commits) -->
+  <img src="https://stats.programcx.cn/api?username=ferokuk&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs&theme=dark&hide_border=true" alt="Total Contributions" />
 </p>
 
 <p align="left">
-  <!-- Использовано стабильное зеркало stats.programcx.cn вместо отвалившегося githubreadmestatsfast -->
   <img src="https://stats.programcx.cn/api/top-langs/?username=ferokuk&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 
