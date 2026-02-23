@@ -24,10 +24,11 @@
 
 ## Tech stack
 
-**Backend**
+**Backend & Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,nginx&perline=7" alt="Backend" />
+    <!-- Добавлены: linux, ubuntu, git, githubactions -->
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,nginx,linux,ubuntu,git,githubactions&perline=11" alt="Backend and Infra" />
   </a>
 </p>
 
@@ -42,7 +43,8 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ferokuk&theme=onedark&no-frame=true&column=-1" alt="Trophies" />
+    <!-- Использован стабильный китайский хост для трофеев, так как оригинальный vercel.app лежит -->
+    <img src="https://github-profile-trophy.programcx.cn/?username=ferokuk&theme=onedark&no-frame=true&column=-1" alt="Trophies" />
   </a>
 </p>
 
@@ -55,7 +57,8 @@
 </p>
 
 <p align="left">
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=ferokuk&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <!-- Использовано стабильное зеркало stats.programcx.cn вместо отвалившегося githubreadmestatsfast -->
+  <img src="https://stats.programcx.cn/api/top-langs/?username=ferokuk&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
