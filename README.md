@@ -41,12 +41,6 @@
 </p>
 
 ## GitHub stats
-
-<p align="left">
-  <!-- Карточка теперь показывает только Total Contributions (скрыты ранг, PR, Issues, Stars и Commits) -->
-  <img src="https://stats.programcx.cn/api?username=ferokuk&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=stars,commits,prs,issues,contribs&theme=dark&hide_border=true" alt="Total Contributions" />
-</p>
-
 <p align="left">
   <img src="https://stats.programcx.cn/api/top-langs/?username=ferokuk&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
