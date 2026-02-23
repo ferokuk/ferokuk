@@ -20,7 +20,6 @@
 - 🎓 Graduated from the College of Computer Science and Programming
 - 📚 Currently studying at the Financial University under the Government of the Russian Federation
 - 👨‍💻 2+ years of experience as a backend developer
-- 🧠 Have experience in deploying local LLMs (Ollama, vLLM, llama.cpp)
 - 📖 Always eager to learn and improve my skills
 
 ## Tech stack
