@@ -1,10 +1,6 @@
 <div align="center">
 
-# Yaroslav (@ferokuk)
-
-<a href="https://t.me/ferokuk">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@ferokuk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+# Yaroslav Gneushev
 
 <br/>
 
