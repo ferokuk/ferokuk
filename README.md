@@ -15,7 +15,7 @@
 - 👋🏼 Hi, I'm Yaroslav
 - 🎓 Graduated from the College of Computer Science and Programming
 - 📚 Currently studying at the Financial University under the Government of the Russian Federation
-- 👨‍💻 3+ years of experience as a backend developer
+- 👨‍💻 4+ years of experience as a backend developer
 - 📖 Always eager to learn and improve my skills
 
 ## Tech stack
@@ -23,7 +23,6 @@
 **Backend & Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Убрана ubuntu, добавлены gitlab, githubactions, bash и linux -->
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,nginx,linux,git,gitlab,githubactions&perline=12" alt="Backend and Infra" />
   </a>
 </p>
