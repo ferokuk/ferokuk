@@ -1,42 +1,52 @@
+<div align="center">
+
 # Yaroslav Gneushev
 
-**Python backend engineer · fintech & insurance**
+**Python Backend Engineer · Fintech & Insurance**
 
-I build and operate backend services, with 4+ years of experience in payments and insurance. My work covers APIs, data models, event processing, monitoring, and incident response.
+APIs, event-driven systems, and the work of keeping them running.
 
-[Website](https://ferokuk.dev/en/) · [Resume](https://cv.ferokuk.dev) · [Telegram](https://t.me/ferokuk) · [Email](mailto:yaroslav@ferokuk.dev)
+[Website](https://ferokuk.dev/en/) &nbsp;·&nbsp; [Resume](https://cv.ferokuk.dev) &nbsp;·&nbsp; [Telegram](https://t.me/ferokuk) &nbsp;·&nbsp; [Email](mailto:yaroslav@ferokuk.dev)
 
-## What I work on
-
-- **Antifraud:** services that combine business rules and ML models to check insurance claims before payment.
-- **Payments & analytics:** transaction processing, event-driven pipelines, and payment status notifications.
-- **Developer tools:** internal AI agents that handle the first pass of code review.
-
-Most of my professional work is in private repositories. You can find selected projects and their results on [my website](https://ferokuk.dev/en/#work).
-
-## Tech stack
-
-- **Backend:** Python, FastAPI, Django, Django REST Framework
-- **Data & messaging:** PostgreSQL, Redis, Kafka, RabbitMQ, Celery
-- **Infrastructure:** Docker, Kubernetes, Linux, GitLab CI
-- **Testing & observability:** pytest, Prometheus, Grafana
-- **AI tools:** LangGraph, LangChain, MCP
-
-## Education
-
-Graduated from the College of Informatics and Programming at the Financial University.
-
-Currently studying Applied Informatics at the Financial University, alongside my engineering work.
-
-## GitHub stats
-<p align="left">
-  <img src="https://stats.programcx.cn/api/top-langs/?username=ferokuk&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
+</div>
 
 ---
 
-<p align="left">
-  <a href="https://wakatime.com/@85030a4f-3567-4675-9999-520f41986300">
-    <img src="https://wakatime.com/badge/user/85030a4f-3567-4675-9999-520f41986300.svg" alt="wakatime" />
-  </a>
+I build and operate backend services for payments and insurance, with **4+ years of experience**. My work spans API design, data modeling, asynchronous processing, and production reliability — from the first implementation to monitoring and incident response.
+
+### Selected work
+
+**Insurance antifraud**  
+Services that combine business rules and ML scoring to check insurance claims before payment. My work also covers deployment, monitoring, and on-call support.
+
+**Payments & event-driven analytics**  
+Transaction processing, merchant APIs, and payment status notifications. Moving analytics to Kafka through a transactional outbox reduced data lag **from hours to tens of seconds**. SQL and index optimization brought REST API **p95 from 2.5 s to 0.8 s**.
+
+**AI-assisted code review**  
+Internal agents integrated into CI/CD to check common defects, style, and missing tests. They handle the first pass on **15+ merge requests daily**, with code staying inside the corporate environment.
+
+Most of my professional work lives in private repositories. **[Explore the projects and results on my website →](https://ferokuk.dev/en/#work)**
+
+### Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | Python · FastAPI · Django · Django REST Framework |
+| **Data & messaging** | PostgreSQL · Redis · Kafka · RabbitMQ · Celery |
+| **Infrastructure** | Docker · Kubernetes · Linux · GitLab CI |
+| **Testing & observability** | pytest · Prometheus · Grafana |
+| **AI tooling** | LangGraph · LangChain · MCP |
+
+### Education
+
+Graduate of the **College of Informatics and Programming, Financial University**. Currently studying **Applied Informatics at the Financial University**, alongside my engineering work.
+
+---
+
+<p align="center">
+  <a href="mailto:yaroslav@ferokuk.dev">yaroslav@ferokuk.dev</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/ferokuk">@ferokuk</a>
+  &nbsp;·&nbsp;
+  <a href="https://wakatime.com/@85030a4f-3567-4675-9999-520f41986300">WakaTime</a>
 </p>
