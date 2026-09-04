@@ -1,38 +1,32 @@
-<div align="center">
-
 # Yaroslav Gneushev
 
-<br/>
+**Python backend engineer · fintech & insurance**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=520&lines=Backend+Developer;Django+%2F+FastAPI;4%2B+years+of+experience" alt="Typing SVG" />
-</a>
+I build and operate backend services, with 4+ years of experience in payments and insurance. My work covers APIs, data models, event processing, monitoring, and incident response.
 
-</div>
+[Website](https://ferokuk.dev/en/) · [Resume](https://cv.ferokuk.dev) · [Telegram](https://t.me/ferokuk) · [Email](mailto:yaroslav@ferokuk.dev)
 
-## About me
+## What I work on
 
-- 👋🏼 Hi, I'm Yaroslav
-- 🎓 Graduated from the College of Computer Science and Programming
-- 📚 Currently studying at the Financial University under the Government of the Russian Federation
-- 👨‍💻 4+ years of experience as a backend developer
-- 📖 Always eager to learn and improve my skills
+- **Antifraud:** services that combine business rules and ML models to check insurance claims before payment.
+- **Payments & analytics:** transaction processing, event-driven pipelines, and payment status notifications.
+- **Developer tools:** internal AI agents that handle the first pass of code review.
+
+Most of my professional work is in private repositories. You can find selected projects and their results on [my website](https://ferokuk.dev/en/#work).
 
 ## Tech stack
 
-**Backend & Infrastructure**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker,nginx,linux,git,gitlab,githubactions&perline=12" alt="Backend and Infra" />
-  </a>
-</p>
+- **Backend:** Python, FastAPI, Django, Django REST Framework
+- **Data & messaging:** PostgreSQL, Redis, Kafka, RabbitMQ, Celery
+- **Infrastructure:** Docker, Kubernetes, Linux, GitLab CI
+- **Testing & observability:** pytest, Prometheus, Grafana
+- **AI tools:** LangGraph, LangChain, MCP
 
-**Frontend**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react&perline=7" alt="Frontend" />
-  </a>
-</p>
+## Education
+
+Graduated from the College of Informatics and Programming at the Financial University.
+
+Currently studying Applied Informatics at the Financial University, alongside my engineering work.
 
 ## GitHub stats
 <p align="left">
