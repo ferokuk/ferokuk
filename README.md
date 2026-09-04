@@ -6,7 +6,7 @@
 
 APIs, event-driven systems, and the work of keeping them running.
 
-[Website](https://ferokuk.dev/en/) &nbsp;·&nbsp; [Resume](https://cv.ferokuk.dev) &nbsp;·&nbsp; [Telegram](https://t.me/ferokuk) &nbsp;·&nbsp; [Email](mailto:yaroslav@ferokuk.dev)
+[Website](https://ferokuk.dev/en/) &nbsp;·&nbsp; [Resume](https://cv.ferokuk.dev/en/) &nbsp;·&nbsp; [Telegram](https://t.me/ferokuk) &nbsp;·&nbsp; [Email](mailto:yaroslav@ferokuk.dev)
 
 </div>
 
